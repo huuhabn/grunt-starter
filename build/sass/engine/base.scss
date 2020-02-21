@@ -1,0 +1,14 @@
+/*
+ * -------------------------------------------
+ * Base
+ * -------------------------------------------
+ */
+body{
+  background: white; // Change to $color-primary
+  margin: 0;
+  font: 14px/20px sans-serif;
+  color: $color-primary;
+}
+h1{
+  color: blue;
+}
